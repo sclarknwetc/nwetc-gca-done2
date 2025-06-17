@@ -12,3 +12,10 @@
   "exceptionLogging": "STACKDRIVER",
   "runtimeVersion": "V8"
 }
+
+{
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/classroom.coursework.students",
+    "https://www.googleapis.com/auth/classroom.student-submissions.students.readonly"
+  ]
+}
